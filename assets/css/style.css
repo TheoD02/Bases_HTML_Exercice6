@@ -1,0 +1,41 @@
+div {
+    display: flex;
+}
+.container > * {
+    vertical-align: middle;
+    width: 100%;
+}
+
+.rectangle {
+    width: var(--width);
+    height: var(--height);
+    height: 50px;
+}
+
+.green {
+    background-color: #2ecc71;
+}
+.blue {
+    background-color: #2980b9;
+}
+.red {
+    background-color: #e74c3c;
+}
+.orange {
+    background-color: #e67e22;
+}
+.grey {
+    background-color: #95a5a6;
+}
+.yellow {
+    background-color: #f39c12;
+}
+.bluegreen {
+    background-color: #16a085;
+}
+.orangered {
+    background-color: #d35400;
+}
+.darkblue {
+    background-color: #2c3e50;
+}
